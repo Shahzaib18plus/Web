@@ -10,12 +10,12 @@ body {
     font-family: Arial, sans-serif;
     background-color: var(--body-background-color);
 }
-
+ 
 /* Hero Section */
 .hero {
     background-color: var(--header-bg-color);
     padding: 6px;
-}
+} 
 
 .hero-text {
     text-align: center;
